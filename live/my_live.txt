@@ -1,7 +1,12 @@
+ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+
 # 央视频道,#genre#
 # 卫视频道,#genre#
 
 广东荔枝,#genre#
+parse=1
+ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+referer=https://www.gdtv.cn
 现代教育,https://www.gdtv.cn/tvChannelDetail/13
 岭南戏曲,https://www.gdtv.cn/tvChannelDetail/15
 广东4K,https://www.gdtv.cn/tvChannelDetail/16
