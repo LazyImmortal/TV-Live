@@ -13,7 +13,7 @@ http://php.jdshipin.com:8880/chudian.php?id=gdms
 http://php.jdshipin.com:8880/chudian.php?id=gdys
 #EXTINF:-1 tvg-name="广东少儿" tvg-logo="https://live.fanmingming.com/tv/广东少儿.png" group-title="广东荔枝",广东少儿
 http://php.jdshipin.com:8880/chudian.php?id=gdse
-#EXTINF:-1 tvg-name="广东移动" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/fanmingming/TVLive/main/logo/广东移动.png" group-title="广东荔枝",广东移动
+#EXTINF:-1 tvg-name="广东移动" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/LazyImmortal/TVLive/main/logo/广东移动.png" group-title="广东荔枝",广东移动
 http://php.jdshipin.com:8880/chudian.php?id=gdyd
 #EXTINF:-1 tvg-name="广东4K超高清" tvg-logo="https://live.fanmingming.com/tv/广东4K.png" group-title="广东荔枝",广东4K
 http://php.jdshipin.com:8880/chudian.php?id=gdzy
