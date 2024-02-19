@@ -30,3 +30,15 @@ GRTN生活频道,https://www.gdtv.cn/tvChannelDetail/102
 GRTN教育频道,https://www.gdtv.cn/tvChannelDetail/104
 
 # 深圳频道,#genre#
+ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+referer=https://www.gdtv.cn
+深圳卫视,https://www.sztv.com.cn/dianshi.shtml?id=7867
+都市频道,https://www.sztv.com.cn/dianshi.shtml?id=7868
+电视剧频道,https://www.sztv.com.cn/dianshi.shtml?id=7880
+公共频道,https://www.sztv.com.cn/dianshi.shtml?id=7874
+财经频道,https://www.sztv.com.cn/dianshi.shtml?id=7871
+娱乐生活频道,https://www.sztv.com.cn/dianshi.shtml?id=7872
+少儿频道,https://www.sztv.com.cn/dianshi.shtml?id=7881
+移动电视,https://www.sztv.com.cn/dianshi.shtml?id=7869
+宜和购物,https://www.sztv.com.cn/dianshi.shtml?id=7878
+深圳国际,https://www.sztv.com.cn/dianshi.shtml?id=7944
