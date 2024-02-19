@@ -29,9 +29,11 @@ GRTN健康频道,https://www.gdtv.cn/tvChannelDetail/99
 GRTN生活频道,https://www.gdtv.cn/tvChannelDetail/102
 GRTN教育频道,https://www.gdtv.cn/tvChannelDetail/104
 
-# 深圳频道,#genre#
+深圳频道,#genre#
+parse=1
 ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 referer=https://www.gdtv.cn
+
 深圳卫视,https://www.sztv.com.cn/dianshi.shtml?id=7867
 都市频道,https://www.sztv.com.cn/dianshi.shtml?id=7868
 电视剧频道,https://www.sztv.com.cn/dianshi.shtml?id=7880
