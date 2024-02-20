@@ -1,6 +1,7 @@
 深圳频道,#genre#
 parse=1
 player=2
+referer=https://www.sztv.com.cn
 深圳卫视,https://www.sztv.com.cn/dianshi.shtml?id=7867
 深圳都市,https://www.sztv.com.cn/dianshi.shtml?id=7868
 深圳电视剧,https://www.sztv.com.cn/dianshi.shtml?id=7880
