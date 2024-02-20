@@ -1,7 +1,6 @@
 广东荔枝,#genre#
 parse=1
 ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-referer=https://www.gdtv.cn
 
 广东卫视,https://www.gdtv.cn/tvChannelDetail/43
 广东珠江,https://www.gdtv.cn/tvChannelDetail/44
@@ -29,7 +28,6 @@ GRTN教育频道,https://www.gdtv.cn/tvChannelDetail/104
 深圳频道,#genre#
 parse=1
 ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-referer=https://www.sztv.com.cn
 
 深圳卫视,https://www.sztv.com.cn/dianshi.shtml?id=7867
 深圳都市,https://www.sztv.com.cn/dianshi.shtml?id=7868
