@@ -5,9 +5,9 @@
         "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/LazyImmortal/TVLive/main/live/gd_live.txt",
         "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
         "logo": "https://epg.112114.xyz/logo/{name}.png",
-        "parse": 1,
-        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
-        "referer": "https://www.gdtv.cn"
+        "parse": {
+          "url": "https://www.gdtv.cn"
+        }
       },
       {
         "name": "壹深圳",
