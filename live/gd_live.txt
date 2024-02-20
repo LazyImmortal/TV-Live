@@ -1,4 +1,5 @@
 广东荔枝,#genre#
+parse=1
 广东卫视,https://www.gdtv.cn/tvChannelDetail/43
 广东珠江,https://www.gdtv.cn/tvChannelDetail/44
 广东新闻,https://www.gdtv.cn/tvChannelDetail/45
