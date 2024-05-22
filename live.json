@@ -2,19 +2,25 @@
   "lives": [
     {
       "name": "LazyImmortal",
-      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/LazyImmortal/TVLive/main/live/mytv_live.txt",
+      "url": "https://raw.gitmirror.com/LazyImmortal/TVLive/main/live/mytv_live.txt",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "LazyImmortal Auto",
+      "url": "https://raw.gitmirror.com/LazyImmortal/TVLiveSource/lazy/result.txt",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
       "name": "PizazzGY",
-      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox/main/live.txt",
+      "url": "https://raw.gitmirror.com/PizazzGY/TVBox/main/live.txt",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
       "name": "Meroser",
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/IPTV.m3u"
+      "url": "https://raw.gitmirror.com/Meroser/IPTV/main/IPTV.m3u"
     },
     {
       "name": "fanmingming",
